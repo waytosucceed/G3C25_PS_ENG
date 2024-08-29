@@ -1,0 +1,228 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Articles",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "He ate __ apple for lunch.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 1,
+          "explanation": "Use 'an' because 'apple' starts with a vowel sound."
+        },
+        {
+          "questionNo": 2,
+          "question": "I saw __ dog running in the park.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 0,
+          "explanation": "Use 'a' because we're talking about any dog, not a specific one."
+        },
+        {
+          "questionNo": 3,
+          "question": "We visited __ zoo last weekend.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 2,
+          "explanation": "Use 'the' because it's a specific zoo that was visited."
+        },
+        {
+          "questionNo": 4,
+          "question": "She is wearing __ hat today.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 0,
+          "explanation": "Use 'a' because it's not a specific hat."
+        },
+        {
+          "questionNo": 5,
+          "question": "Can you give me __ pencil?",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 0,
+          "explanation": "Use 'a' because it's any pencil, not a specific one."
+        },
+        {
+          "questionNo": 6,
+          "question": "I would like __ cookie from the jar.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 0,
+          "explanation": "Use 'a' because it's any cookie, not a specific one."
+        },
+        {
+          "questionNo": 7,
+          "question": "I have __ orange juice for breakfast.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 1,
+          "explanation": "Use 'an' because 'orange' starts with a vowel sound."
+        },
+        {
+          "questionNo": 8,
+          "question": "She wore __ dress to the party.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 0,
+          "explanation": "Use 'a' because it's not a specific dress."
+        },
+        {
+          "questionNo": 9,
+          "question": "Use 'an' before words that start with a consonant sound.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "'An' is used before words that start with a vowel sound."
+        },
+        {
+          "questionNo": 10,
+          "question": "Use 'a' before words that start with a vowel sound.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "'A' is used before words that start with a consonant sound."
+        },
+        {
+          "questionNo": 11,
+          "question": "I need __ eraser for my homework.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 1,
+          "explanation": "Use 'an' because 'eraser' starts with a vowel sound."
+        },
+        {
+          "questionNo": 12,
+          "question": "Can you pass me __ juice?",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 2,
+          "explanation": "Use 'the' because it's a specific juice. Both the speaker and listener know about the juice."
+        },
+        {
+          "questionNo": 13,
+          "question": "__ cat is sitting on __ pink sofa.",
+          "options": [
+            "A, the",
+            "The, a",
+            "An, the"
+          ],
+          "answer": 0,
+          "explanation": "Use 'the' for the sofa (specific pink sofa) and 'a' for the cat (any cat)."
+        },
+        {
+          "questionNo": 14,
+          "question": "I want __ ice cream for dessert.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 1,
+          "explanation": "Use 'an' because 'ice cream' starts with a vowel sound."
+        },
+        {
+          "questionNo": 15,
+          "question": "He bought __ new toy.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 0,
+          "explanation": "Use 'a' because it's not a specific toy. Also, the word 'new' starts with a consonant sound."
+        },
+        {
+          "questionNo": 16,
+          "question": "__ stars are shining in __ sky.",
+          "options": [
+            "The, the",
+            "A, the",
+            "An, a"
+          ],
+          "answer": 0,
+          "explanation": "Use 'the' for both, as we're talking about specific stars and sky."
+        },
+        {
+          "questionNo": 17,
+          "question": "I need __ apple from __ blue basket.",
+          "options": [
+            "a, the",
+            "a, a",
+            "an, the"
+          ],
+          "answer": 2,
+          "explanation": "Use 'an' for apple (starts with a vowel sound) and 'the' for the specific basket."
+        },
+        {
+          "questionNo": 18,
+          "question": "She has __ idea for __ new project.",
+          "options": [
+            "an, the",
+            "an, a",
+            "the, an"
+          ],
+          "answer": 0,
+          "explanation": "Use 'an' for the idea (starts with a vowel sound) and 'the' for the specific project."
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the correct pair:",
+          "options": [
+            "a: umbrella",
+            "an: elephant",
+            "a: sun"
+          ],
+          "answer": 1,
+          "explanation": "The word 'Elephant' starts with a vowel sound 'E'. So, it uses the article 'an'."
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the correct pair:",
+          "options": [
+            "The: Earth",
+            "An: Ball",
+            "A: Apple"
+          ],
+          "answer": 0,
+          "explanation": "'The' is used when talking about something specific that everyone knows about, like 'the Earth'."
+        }
+      ]
+    }
+  ]
+}
